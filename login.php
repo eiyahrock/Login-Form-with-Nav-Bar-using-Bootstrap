@@ -10,11 +10,7 @@
     <title>Document</title>
 </head>
 <body class="container-fluid p-3" >
-<div class="row">
-  <div class="col-3 "></div>
-  <div class="col-6">
-<div class="container p-2" style="border:5px solid black; background-color:pink; border-radius: 20px;">
-<nav class=" p-2 navbar navbar-expand-sm navbar-dark bg-dark" style=" border-radius: 15px;">
+  <nav class=" p-2 navbar navbar-expand-sm navbar-dark bg-dark" style=" border-radius: 15px;">
   <a class="bi bi-briefcase-fill navbar-brand" href="login.php"><b> VisVis Travel</b></a>
     <div class="navbar-nav">
       <a class="nav-item nav-link active" href="login.php">Login</a>
@@ -22,6 +18,11 @@
       <a class="nav-item nav-link " href="About.php">About</a>
     </div>
 </nav>
+<div class="row p-3 ">
+  <div class="col-3 "></div>
+  <div class="col-6">
+<div class="container p-2" style="border:5px solid black; background-color:pink; border-radius: 20px;">
+
 <div class="row " style="height: 25px;" >
   <div class="col-4"></div>
     <label  class="col-7 col-form-label " ><h2 ><b> Welcome Back</b></h2></label>
